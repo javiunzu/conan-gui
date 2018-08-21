@@ -1,0 +1,14 @@
+[
+{
+    "name": "conan-center",
+    "url": "https://conan.bintray.com",
+    "ssl": "True",
+    "packages": [
+        "7z_installer/1.0@conan/stable",
+        "Args/5.0.1.4@igormironchik/stable",
+        "Assimp/3.3.1@jacmoe/stable",
+        "Assimp/3.3.1@jacmoe/testing",
+        "Assimp/4.1.0@jacmoe/stable"
+    ]
+}
+]
